@@ -1,0 +1,5 @@
+a = "Welcome "
+b = "to "
+c = "Python!"
+
+print(a+b+c)
